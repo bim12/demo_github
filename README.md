@@ -1,2 +1,2 @@
 # demo_github
-Une prémiere utilisation du Gihub
+Une prémiere utilisation du Github
